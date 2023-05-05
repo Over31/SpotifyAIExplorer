@@ -1,0 +1,25 @@
+{
+    "name": "ai_explorer",
+    "version": "1.0.0",
+    "description": "Web Application for exploring new music with help of AI",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "4.0.3"
+    },
+    "devDependencies": {
+      "@types/jest": "^26.0.23",
+      "@types/node": "^12.0.0",
+      "@types/react": "^17.0.0",
+      "@types/react-dom": "^17.0.0",
+      "typescript": "^4.2.3"
+    }
+  }
+  
