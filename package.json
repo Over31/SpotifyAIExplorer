@@ -1,5 +1,5 @@
 {
-  "name": "SpotifyAIExplorer",
+  "name": "spotifyaiexplorer",
   "packageManager": "yarn@3.5.1",
   "scripts": {
     "start": "react-scripts start"
